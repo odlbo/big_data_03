@@ -1,0 +1,929 @@
+make,model,avg_price
+BMW,1 Series M,46135.0
+BMW,1 Series,37853.125
+Audi,100,2000.0
+FIAT,124 Spider,26895.0
+Mercedes-Benz,190-Class,2000.0
+BMW,2 Series,41697.05882352941
+Audi,200,2000.0
+Chrysler,200,26582.17391304348
+Nissan,200SX,2008.111111111111
+Nissan,240SX,4066.375
+Volvo,240,2000.0
+Mazda,2,15821.666666666666
+BMW,3 Series Gran Turismo,45250.0
+BMW,3 Series,40897.05882352941
+Mercedes-Benz,300-Class,2385.5862068965516
+Mitsubishi,3000GT,5035.777777777777
+Chrysler,300,38134.333333333336
+Chrysler,300M,30600.833333333332
+Nissan,300ZX,2968.5833333333335
+Mazda,323,2000.0
+Mercedes-Benz,350-Class,2182.75
+Nissan,350Z,36442.35294117647
+Ferrari,360,161978.53846153847
+Nissan,370Z,40654.117647058825
+Mazda,3,22195.0
+BMW,4 Series Gran Coupe,44750.0
+BMW,4 Series,48984.48275862069
+Mercedes-Benz,400-Class,2398.25
+Mercedes-Benz,420-Class,2093.0
+Ferrari,456M,225027.5
+Ferrari,458 Italia,258059.875
+Alfa Romeo,4C,61600.0
+Toyota,4Runner,38221.346153846156
+BMW,5 Series Gran Turismo,65740.0
+BMW,5 Series,58306.25
+Mercedes-Benz,500-Class,3643.625
+FIAT,500e,31800.0
+FIAT,500,20449.821428571428
+FIAT,500L,22120.76923076923
+FIAT,500X,24620.333333333332
+Ferrari,550,227170.0
+Mercedes-Benz,560-Class,2310.0
+McLaren,570S,184900.0
+Ferrari,575M,221966.33333333334
+Maybach,57,401357.14285714284
+Ferrari,599,334449.2
+Mazda,5,22183.636363636364
+BMW,6 Series Gran Coupe,86383.33333333333
+BMW,6 Series,87933.33333333333
+Mercedes-Benz,600-Class,3475.5
+Pontiac,6000,2000.0
+Ferrari,612 Scaglietti,313088.0
+Mazda,626,13786.818181818182
+Maybach,62,452471.4285714286
+McLaren,650S Coupe,265500.0
+McLaren,650S Spider,280225.0
+Mazda,6,24761.333333333332
+BMW,7 Series,90662.5
+Porsche,718 Cayman,60100.0
+Volvo,740,2000.0
+Volvo,760,2000.0
+Volvo,780,2000.0
+BMW,8 Series,6583.0
+Audi,80,2000.0
+Volvo,850,2003.5
+Toyota,86,26615.0
+Saab,9-2X,24970.0
+Saab,9-3 Griffin,36581.11111111111
+Saab,9-3,37603.28125
+Saab,9-4X,38952.0
+Saab,9-5,42925.90909090909
+Saab,9-7X,43393.125
+Saab,9000,2058.6
+Saab,900,2025.1304347826087
+Audi,90,2000.0
+Porsche,911,123763.79310344828
+Porsche,928,7704.333333333333
+Mazda,929,2000.0
+Volvo,940,2000.0
+Porsche,944,3093.75
+Volvo,960,2000.0
+Porsche,968,4643.0
+Audi,A3,38652.12765957447
+Audi,A4 allroad,47466.666666666664
+Audi,A4,39752.0
+Audi,A5,44300.0
+Audi,A6,54673.913043478264
+Audi,A7,69895.0
+Audi,A8,94850.0
+GMC,Acadia Limited,44850.0
+GMC,Acadia,40086.40625
+Hyundai,Accent,15911.666666666666
+Plymouth,Acclaim,2000.0
+Honda,Accord Crosstour,33610.0
+Honda,Accord Hybrid,32316.11111111111
+Honda,Accord Plug-In Hybrid,39780.0
+Honda,Accord,27886.066666666666
+Oldsmobile,Achieva,2000.0
+BMW,ActiveHybrid 5,61800.0
+BMW,ActiveHybrid 7,84300.0
+BMW,ActiveHybrid X6,88900.0
+Suzuki,Aerio,15918.354838709678
+Ford,Aerostar,2000.0
+Oldsmobile,Alero,20626.25
+Cadillac,Allante,2197.3333333333335
+Audi,allroad quattro,41943.75
+Audi,allroad,44675.0
+BMW,ALPINA B6 Gran Coupe,120666.66666666667
+BMW,ALPINA B7,132333.33333333334
+BMW,Alpina,136900.0
+Nissan,Altima Hybrid,26743.333333333332
+Nissan,Altima,26956.25
+Kia,Amanti,25678.333333333332
+Mercedes-Benz,AMG GT,124100.0
+Nissan,Armada,48204.0
+Bentley,Arnage,246890.0
+Chrysler,Aspen,35792.142857142855
+Ford,Aspire,2000.0
+Chevrolet,Astro Cargo,23791.666666666668
+Chevrolet,Astro,25105.0
+Cadillac,ATS Coupe,45772.142857142855
+Cadillac,ATS-V,61680.0
+Cadillac,ATS,42111.153846153844
+Oldsmobile,Aurora,33367.6
+Chevrolet,Avalanche,42064.666666666664
+Toyota,Avalon Hybrid,39018.88888888889
+Toyota,Avalon,36230.333333333336
+Dodge,Avenger,22825.0
+Lamborghini,Aventador,470050.0
+Chevrolet,Aveo,13843.333333333334
+Lincoln,Aviator,42543.0
+Nissan,Axxess,2000.0
+Hyundai,Azera,36500.0
+Pontiac,Aztek,22688.333333333332
+Bentley,Azure T,363000.0
+Bentley,Azure,331656.6666666667
+Mercedes-Benz,B-Class Electric Drive,40933.333333333336
+Mazda,B-Series Pickup,2984.975
+Mazda,B-Series Truck,20608.636363636364
+Mazda,B-Series,16712.69230769231
+Subaru,B9 Tribeca,34088.333333333336
+Subaru,Baja,24398.333333333332
+Volkswagen,Beetle Convertible,30491.96629213483
+Volkswagen,Beetle,26100.933333333334
+Chevrolet,Beretta,2000.0
+Chevrolet,Black Diamond Avalanche,41295.833333333336
+Lincoln,Blackwood,51785.0
+Chevrolet,Blazer,24151.428571428572
+Chevrolet,Bolt EV,38762.5
+Pontiac,Bonneville,30752.777777777777
+Kia,Borrego,31722.777777777777
+Porsche,Boxster,61412.5
+Oldsmobile,Bravada,34021.42857142857
+Plymouth,Breeze,2000.0
+Ford,Bronco II,2000.0
+Ford,Bronco,2697.0
+Bentley,Brooklands,340990.0
+Cadillac,Brougham,2000.0
+Subaru,BRZ,27685.833333333332
+Mercedes-Benz,C-Class,49298.37837837838
+Ford,C-Max Hybrid,25653.333333333332
+Volvo,C30,26258.333333333332
+Mercedes-Benz,C36 AMG,3960.3333333333335
+Mercedes-Benz,C43 AMG,4957.333333333333
+Volvo,C70,40533.333333333336
+Spyker,C8,213323.33333333334
+Audi,Cabriolet,2868.3333333333335
+Volkswagen,Cabriolet,2000.0
+Volkswagen,Cabrio,18592.214285714286
+Kia,Cadenza,38392.5
+Dodge,Caliber,18739.0625
+Ferrari,California T,198973.0
+Ferrari,California,197406.66666666666
+Chevrolet,Camaro,38991.666666666664
+Toyota,Camry Hybrid,28290.555555555555
+Toyota,Camry Solara,24342.34375
+Toyota,Camry,26952.894736842107
+GMC,Canyon,28899.166666666668
+Chevrolet,Caprice,2000.0
+Chevrolet,Captiva Sport,26205.833333333332
+Dodge,Caravan,20480.555555555555
+Porsche,Carrera GT,440000.0
+Buick,Cascada,35065.0
+Cadillac,Catera,9428.75
+Chevrolet,Cavalier,15308.0
+Porsche,Cayenne,94385.71428571429
+Porsche,Cayman S,58900.0
+Porsche,Cayman,62487.5
+Volkswagen,CC,35854.375
+Chevrolet,Celebrity,2000.0
+Toyota,Celica,20725.0
+Buick,Century,21696.666666666668
+Dodge,Challenger,39230.454545454544
+Dodge,Charger,38835.71428571428
+Chevrolet,Chevy Van,2024.2222222222222
+Oldsmobile,Ciera,2000.0
+Chrysler,Cirrus,2227.3333333333335
+Chevrolet,City Express,22810.0
+Honda,Civic CRX,2000.0
+Honda,Civic del Sol,2136.4444444444443
+Honda,Civic,22517.941176470587
+Chevrolet,C/K 1500 Series,2902.035714285714
+Chevrolet,C/K 2500 Series,3048.75
+Mercedes-Benz,CL-Class,160483.33333333334
+Mercedes-Benz,CLA-Class,38427.77777777778
+Acura,CL,29818.88888888889
+Chevrolet,Classic,19597.5
+Mercedes-Benz,CLK-Class,65133.333333333336
+Mercedes-Benz,CLS-Class,80448.46153846153
+Chevrolet,Cobalt,17302.272727272728
+Chevrolet,Colorado,27664.722222222223
+Dodge,Colt,2000.0
+Plymouth,Colt,2000.0
+Chrysler,Concorde,25935.0
+Bentley,Continental Flying Spur Speed,208600.0
+Bentley,Continental Flying Spur,183200.0
+Bentley,Continental GT Speed Convertible,238700.0
+Bentley,Continental GT Speed,212350.0
+Bentley,Continental GT3-R,337000.0
+Bentley,Continental GT,215978.94736842104
+Bentley,Continental GTC Speed,233750.0
+Bentley,Continental GTC,207816.66666666666
+Bentley,Continental Supersports Convertible,280400.0
+Bentley,Continental Supersports,267000.0
+Bentley,Continental,309596.6666666667
+Lincoln,Continental,47855.0
+Ford,Contour SVT,2764.6666666666665
+Ford,Contour,2009.875
+Rolls-Royce,Corniche,359990.0
+Toyota,Corolla iM,19120.0
+Toyota,Corolla,20221.176470588234
+Volkswagen,Corrado,2000.0
+Chevrolet,Corsica,2000.0
+Chevrolet,Corvette Stingray,57500.0
+Chevrolet,Corvette,71505.33333333333
+Audi,Coupe,2000.0
+Maserati,Coupe,83862.33333333333
+Volvo,Coupe,2000.0
+Honda,CR-V,27968.4375
+Honda,CR-Z,22288.88888888889
+Toyota,Cressida,2000.0
+Chrysler,Crossfire,36849.583333333336
+Honda,Crosstour,33063.75
+Subaru,Crosstrek,24175.0
+Ford,Crown Victoria,29671.666666666668
+Chevrolet,Cruze Limited,20188.88888888889
+Chevrolet,Cruze,20469.4
+Lexus,CT 200h,31566.666666666668
+Cadillac,CT6,66033.33333333333
+Cadillac,CTS Coupe,44645.0
+Cadillac,CTS-V Coupe,65571.66666666667
+Cadillac,CTS-V Wagon,63343.333333333336
+Cadillac,CTS-V,77863.33333333333
+Cadillac,CTS Wagon,45185.0
+Cadillac,CTS,56959.76190476191
+Nissan,Cube,17500.0
+Oldsmobile,Custom Cruiser,2000.0
+Oldsmobile,Cutlass Calais,2000.0
+Oldsmobile,Cutlass Ciera,2000.0
+Oldsmobile,Cutlass Supreme,2000.0
+Oldsmobile,Cutlass,2045.3333333333333
+Mazda,CX-3,22928.333333333332
+Mazda,CX-5,25403.96551724138
+Mazda,CX-7,27214.5
+Mazda,CX-9,34961.84210526316
+Dodge,Dakota,26955.30769230769
+Dodge,Dart,20150.0
+Rolls-Royce,Dawn,335000.0
+Dodge,Daytona,2000.0
+Aston Martin,DB7,151550.0
+Aston Martin,DB9 GT,215602.33333333334
+Aston Martin,DB9,196522.5
+Aston Martin,DBS,281573.0
+Land Rover,Defender,33761.25
+Cadillac,DeVille,48547.5
+Lamborghini,Diablo,294900.0
+Mitsubishi,Diamante,26901.0
+Land Rover,Discovery Series II,29518.5
+Land Rover,Discovery Sport,41784.444444444445
+Land Rover,Discovery,37791.666666666664
+Cadillac,DTS,51683.21428571428
+Dodge,Durango,39512.142857142855
+Dodge,Dynasty,2000.0
+Ford,E-150,2077.076923076923
+Ford,E-250,2018.7
+Mercedes-Benz,E-Class,61857.142857142855
+Volkswagen,e-Golf,33371.25
+Ford,E-Series Van,29893.61111111111
+Ford,E-Series Wagon,33477.5
+Mercedes-Benz,E55 AMG,5999.0
+Toyota,ECHO,11016.666666666666
+Mitsubishi,Eclipse Spyder,29984.714285714286
+Mitsubishi,Eclipse,23967.571428571428
+Ford,Edge,34236.818181818184
+Oldsmobile,Eighty-Eight Royale,2000.0
+Oldsmobile,Eighty-Eight,2105.0
+Hyundai,Elantra Coupe,19458.75
+Hyundai,Elantra GT,19300.0
+Hyundai,Elantra Touring,18161.666666666668
+Hyundai,Elantra,20437.5
+Cadillac,Eldorado,32237.714285714286
+Buick,Electra,2000.0
+Honda,Element,23145.95238095238
+Lotus,Elise,51657.5
+Buick,Enclave,45054.666666666664
+Buick,Encore,27877.5
+Mitsubishi,Endeavor,29689.0
+Hyundai,Entourage,26615.0
+Buick,Envision,40617.5
+GMC,Envoy XL,33925.9375
+GMC,Envoy XUV,32947.5
+GMC,Envoy,33076.666666666664
+Ferrari,Enzo,643330.0
+Volkswagen,Eos,38063.57142857143
+Suzuki,Equator,24512.608695652172
+Chevrolet,Equinox,27577.391304347828
+Hyundai,Equus,65041.666666666664
+Lexus,ES 250,2000.0
+Lexus,ES 300h,41140.0
+Lexus,ES 300,31578.333333333332
+Lexus,ES 330,32066.666666666668
+Lexus,ES 350,38785.0
+Cadillac,Escalade ESV,84037.33333333333
+Cadillac,Escalade EXT,66572.22222222222
+Cadillac,Escalade Hybrid,80522.5
+Cadillac,Escalade,81037.33333333333
+Ford,Escape Hybrid,32125.0
+Ford,Escape,27458.666666666668
+Ford,Escort,13867.222222222223
+Lotus,Esprit,91291.66666666667
+Buick,Estate Wagon,2000.0
+Suzuki,Esteem,13295.90322580645
+Volkswagen,EuroVan,26950.0
+Lotus,Evora 400,91900.0
+Lotus,Evora,71776.0
+Infiniti,EX35,35191.666666666664
+Hyundai,Excel,2000.0
+Lotus,Exige,69627.5
+Infiniti,EX,37808.333333333336
+Ford,Expedition,56883.36111111111
+Ford,Explorer Sport Trac,30261.11111111111
+Ford,Explorer Sport,24422.222222222223
+Ford,Explorer,38451.30434782609
+Mitsubishi,Expo,2000.0
+Chevrolet,Express Cargo,30235.0
+Chevrolet,Express,34804.117647058825
+Ford,F-150 Heritage,24145.75
+Ford,F-150 SVT Lightning,5353.0
+Ford,F-150,40747.04761904762
+Ford,F-250,3280.0
+Ferrari,F12 Berlinetta,317257.0
+Ferrari,F430,205580.23076923078
+Ford,Festiva,2000.0
+Ferrari,FF,295000.0
+Ford,Fiesta,17126.428571428572
+Pontiac,Firebird,19644.4
+Honda,Fit EV,36625.0
+Honda,Fit,18338.333333333332
+Ford,Five Hundred,25303.75
+Toyota,FJ Cruiser,27865.0
+Cadillac,Fleetwood,2052.6666666666665
+Ford,Flex,36120.833333333336
+Bentley,Flying Spur,206940.0
+Ford,Focus RS,36120.0
+Ford,Focus ST,24523.333333333332
+Ford,Focus,21790.5
+Suzuki,Forenza,15575.470588235294
+Subaru,Forester,27336.666666666668
+Kia,Forte,19895.0
+Volkswagen,Fox,2000.0
+Scion,FR-S,27517.5
+Land Rover,Freelander,27149.444444444445
+Ford,Freestar,25788.928571428572
+Ford,Freestyle,27838.75
+Nissan,Frontier,27461.71052631579
+Ford,Fusion Hybrid,29005.5
+Ford,Fusion,28807.941176470587
+Infiniti,FX35,41750.0
+Infiniti,FX45,49900.0
+Infiniti,FX50,58700.0
+Infiniti,FX,50104.545454545456
+Mercedes-Benz,G-Class,146040.0
+Infiniti,G Convertible,51750.0
+Infiniti,G Coupe,44408.82352941176
+Infiniti,G Sedan,38393.47826086957
+Infiniti,G20,17608.75
+Infiniti,G35,32884.375
+Infiniti,G37 Convertible,48733.333333333336
+Infiniti,G37 Coupe,40730.0
+Infiniti,G37 Sedan,37941.666666666664
+Infiniti,G37,36900.0
+Pontiac,G3,14335.0
+Pontiac,G5,17664.166666666668
+Pontiac,G6,25019.772727272728
+Genesis,G80,46616.666666666664
+Pontiac,G8,30767.0
+Mitsubishi,Galant,22899.0
+Lamborghini,Gallardo,219844.0
+Hyundai,Genesis Coupe,30577.777777777777
+Hyundai,Genesis,43306.25
+Maserati,Ghibli,75175.0
+Rolls-Royce,Ghost Series II,307831.25
+Rolls-Royce,Ghost,276525.0
+Mercedes-Benz,GL-Class,84225.83333333333
+Mercedes-Benz,GLA-Class,38564.444444444445
+Mercedes-Benz,GLC-Class,40050.0
+Mercedes-Benz,GLE-Class Coupe,88675.0
+Mercedes-Benz,GLE-Class,73775.45454545454
+Volkswagen,GLI,25538.409090909092
+Mercedes-Benz,GLK-Class,38656.666666666664
+Mercedes-Benz,GLS-Class,95550.0
+Volkswagen,Golf Alltrack,29130.0
+Volkswagen,Golf GTI,28791.6
+Volkswagen,Golf R,37723.5
+Volkswagen,Golf SportWagen,26127.105263157893
+Volkswagen,Golf,22647.222222222223
+Pontiac,Grand Am,21345.58823529412
+Dodge,Grand Caravan,27101.25
+Pontiac,Grand Prix,24986.25
+Suzuki,Grand Vitara,22762.88888888889
+Chrysler,Grand Voyager,2217.5
+Plymouth,Grand Voyager,2135.875
+Maserati,GranSport,100266.5
+Maserati,GranTurismo Convertible,155824.36363636365
+Maserati,GranTurismo,145993.0
+Lexus,GS 200t,49797.5
+Lexus,GS 300,41500.0
+Lexus,GS 350,52623.63636363636
+Lexus,GS 400,3749.3333333333335
+Lexus,GS 430,50575.0
+Lexus,GS 450h,61613.333333333336
+Lexus,GS 460,54303.333333333336
+Lexus,GS F,84440.0
+Nissan,GT-R,119030.0
+Ford,GT,149995.0
+Volkswagen,GTI,28037.894736842107
+Pontiac,GTO,31793.333333333332
+Lexus,GX 460,56299.166666666664
+Lexus,GX 470,47188.333333333336
+HUMMER,H3,37749.0
+HUMMER,H3T,34629.28571428572
+Chevrolet,HHR,20762.5
+Toyota,Highlander Hybrid,48939.166666666664
+Toyota,Highlander,37219.77272727273
+Plymouth,Horizon,2000.0
+Honda,HR-V,22315.0
+Lexus,HS 250h,37388.333333333336
+Lamborghini,Huracan,234475.0
+Mitsubishi,i-MiEV,22995.0
+Infiniti,I30,11904.333333333334
+Infiniti,I35,29483.333333333332
+BMW,i3,42700.0
+Scion,iA,16250.0
+Acura,ILX Hybrid,31750.0
+Acura,ILX,30712.5
+Chevrolet,Impala Limited,27735.0
+Chevrolet,Impala,33558.61111111111
+Chrysler,Imperial,2000.0
+Subaru,Impreza WRX,30656.11111111111
+Subaru,Impreza,21168.529411764706
+Scion,iM,18830.0
+Honda,Insight,21192.5
+Acura,Integra,11768.583333333334
+Dodge,Intrepid,23596.25
+Oldsmobile,Intrigue,17359.666666666668
+Scion,iQ,16168.75
+Lexus,IS 200t,37575.0
+Lexus,IS 250 C,42943.333333333336
+Lexus,IS 250,38511.25
+Lexus,IS 300,34369.0
+Lexus,IS 350 C,47223.333333333336
+Lexus,IS 350,41289.166666666664
+Lexus,IS F,62216.666666666664
+Infiniti,J30,2027.7142857142858
+Volkswagen,Jetta GLI,27350.0
+Volkswagen,Jetta Hybrid,28479.375
+Volkswagen,Jetta SportWagen,25284.761904761905
+Volkswagen,Jetta,23953.524590163935
+GMC,Jimmy,11239.935483870968
+Dodge,Journey,28165.967741935485
+Nissan,Juke,25124.666666666668
+Subaru,Justy,2000.0
+Infiniti,JX,41950.0
+Kia,K900,56040.0
+Suzuki,Kizashi,23994.3125
+Buick,LaCrosse,37077.0
+Mitsubishi,Lancer Evolution,36752.142857142855
+Mitsubishi,Lancer Sportback,20045.0
+Mitsubishi,Lancer,20756.11111111111
+Toyota,Land Cruiser,82768.33333333333
+Maybach,Landaulet,1381375.0
+Plymouth,Laser,2000.0
+Chrysler,Le Baron,2000.0
+Pontiac,Le Mans,2000.0
+Nissan,Leaf,32423.0
+Subaru,Legacy,25370.78947368421
+Acura,Legend,2143.5
+Buick,LeSabre,29050.0
+Maserati,Levante,77500.0
+Lexus,LFA,375000.0
+Chrysler,LHS,10922.333333333334
+Subaru,Loyale,2000.0
+Land Rover,LR2,39066.666666666664
+Land Rover,LR3,49508.333333333336
+Land Rover,LR4,56607.9
+Lexus,LS 400,4599.333333333333
+Lexus,LS 430,56041.666666666664
+Lexus,LS 460,78523.57142857143
+Lexus,LS 600h L,120313.33333333333
+Lincoln,LS,37970.454545454544
+Oldsmobile,LSS,2330.0
+Ford,LTD Crown Victoria,2000.0
+Buick,Lucerne,34554.04761904762
+Chevrolet,Lumina Minivan,2000.0
+Chevrolet,Lumina,5406.8
+Lexus,LX 450,3974.5
+Lexus,LX 470,66671.66666666667
+Lexus,LX 570,87146.66666666667
+Mercedes-Benz,M-Class,61332.0
+BMW,M2,51700.0
+Infiniti,M30,2000.0
+Infiniti,M35,46175.0
+Infiniti,M37,48125.0
+BMW,M3,63166.666666666664
+BMW,M4 GTS,133205.0
+Infiniti,M45,52766.666666666664
+BMW,M4,69583.33333333333
+Infiniti,M56,59700.0
+BMW,M5,93533.33333333333
+BMW,M6 Gran Coupe,116800.0
+BMW,M6,116150.0
+Porsche,Macan,61725.0
+Dodge,Magnum,30826.875
+Chevrolet,Malibu Classic,19316.666666666668
+Chevrolet,Malibu Hybrid,25040.0
+Chevrolet,Malibu Limited,24346.25
+Chevrolet,Malibu Maxx,21954.090909090908
+Chevrolet,Malibu,25704.736842105263
+Lincoln,Mark LT,40147.5
+Lincoln,Mark VIII,2223.6666666666665
+Lincoln,Mark VII,2000.0
+Toyota,Matrix,20310.333333333332
+Nissan,Maxima,35799.166666666664
+Mercedes-Benz,Maybach,190325.0
+Mazda,Mazdaspeed 3,23966.666666666668
+Mazda,Mazdaspeed 6,28960.0
+Mazda,Mazdaspeed MX-5 Miata,26030.0
+Mazda,Mazdaspeed Protege,20230.0
+BMW,M,47314.0
+Acura,MDX,50332.05882352941
+Mercedes-Benz,Metris,30725.0
+Chevrolet,Metro,3502.1428571428573
+Mitsubishi,Mighty Max Pickup,2000.0
+Mazda,Millenia,20622.88888888889
+Infiniti,M,55135.0
+Mitsubishi,Mirage G4,15395.0
+Mitsubishi,Mirage,14470.0
+Lincoln,MKC,40209.5
+Lincoln,MKS,41898.333333333336
+Lincoln,MKT,44950.833333333336
+Lincoln,MKX,45255.555555555555
+Lincoln,MKZ Hybrid,34645.0
+Lincoln,MKZ,40691.25
+Mercedes-Benz,ML55 AMG,5650.0
+Tesla,Model S,85255.55555555556
+Dodge,Monaco,2000.0
+Pontiac,Montana SV6,26000.0
+Pontiac,Montana,27944.117647058825
+Chevrolet,Monte Carlo,23868.636363636364
+Mitsubishi,Montero Sport,27504.4
+Mitsubishi,Montero,35652.333333333336
+McLaren,MP4-12C,234200.0
+Mazda,MPV,24888.75
+Toyota,MR2 Spyder,25395.0
+Toyota,MR2,2138.6666666666665
+Bentley,Mulsanne,310475.0
+Nissan,Murano CrossCabriolet,43691.666666666664
+Nissan,Murano,36381.42857142857
+Lamborghini,Murcielago,374666.6666666667
+Ford,Mustang SVT Cobra,4041.0
+Ford,Mustang,32520.625
+Mazda,MX-3,2000.0
+Mazda,MX-5 Miata,28300.535714285714
+Mazda,MX-6,2000.0
+Mazda,Navajo,2000.0
+Lincoln,Navigator,68917.5
+Dodge,Neon,16448.846153846152
+Plymouth,Neon,3195.4444444444443
+Volkswagen,New Beetle,21973.61111111111
+Chrysler,New Yorker,2000.0
+Oldsmobile,Ninety-Eight,2000.0
+Dodge,Nitro,24705.0
+Acura,NSX,102400.0
+Nissan,NV200,21436.666666666668
+Lexus,NX 200t,36593.333333333336
+Lexus,NX 300h,40356.0
+Nissan,NX,2000.0
+Honda,Odyssey,36879.0
+Dodge,Omni,2000.0
+Kia,Optima Hybrid,28885.833333333332
+Kia,Optima,27312.352941176472
+Subaru,Outback,29622.25
+Mitsubishi,Outlander Sport,23059.285714285714
+Mitsubishi,Outlander,25939.444444444445
+Chrysler,Pacifica,31424.41176470588
+Porsche,Panamera,123340.90909090909
+Buick,Park Avenue,37714.166666666664
+Rolls-Royce,Park Ward,261445.0
+Toyota,Paseo,2044.5
+Volkswagen,Passat,27465.88888888889
+Honda,Passport,22185.7
+Nissan,Pathfinder,35520.0
+Volkswagen,Phaeton,83318.18181818182
+Rolls-Royce,Phantom Coupe,440466.6666666667
+Rolls-Royce,Phantom Drophead Coupe,482125.0
+Rolls-Royce,Phantom,445959.1666666667
+Toyota,Pickup,2273.923076923077
+Honda,Pilot,36904.166666666664
+Mitsubishi,Precis,2000.0
+Honda,Prelude,12568.857142857143
+Toyota,Previa,2200.1875
+Toyota,Prius c,21377.69230769231
+Toyota,Prius Prime,29666.666666666668
+Toyota,Prius v,28841.25
+Toyota,Prius,26908.61111111111
+Chevrolet,Prizm,10872.166666666666
+Ford,Probe,2000.0
+Mazda,Protege5,16675.0
+Mazda,Protege,14788.636363636364
+Chrysler,Prowler,44625.0
+Plymouth,Prowler,28543.666666666668
+Chrysler,PT Cruiser,19908.125
+Nissan,Pulsar,2000.0
+Audi,Q3,36292.857142857145
+Infiniti,Q40,34750.0
+Infiniti,Q45,57125.0
+Infiniti,Q50,43130.555555555555
+Audi,Q5,48255.0
+Infiniti,Q60 Convertible,54683.333333333336
+Infiniti,Q60 Coupe,45647.22222222222
+Infiniti,Q70,57760.86956521739
+Audi,Q7,57373.333333333336
+Maserati,Quattroporte,119415.38461538461
+Nissan,Quest,33443.333333333336
+Infiniti,QX4,35050.0
+Infiniti,QX50,36025.0
+Infiniti,QX56,58150.0
+Infiniti,QX60,45890.0
+Infiniti,QX70,46633.333333333336
+Infiniti,QX80,68078.57142857143
+Infiniti,QX,62225.0
+Mercedes-Benz,R-Class,51435.0
+Volkswagen,R32,31045.0
+Audi,R8,158819.6
+Volkswagen,Rabbit,17080.909090909092
+Mitsubishi,Raider,24838.0
+Buick,Rainier,32945.833333333336
+GMC,Rally Wagon,2000.0
+Dodge,RAM 150,2002.275
+Dodge,RAM 250,2022.16
+Dodge,Ram 50 Pickup,2000.0
+Dodge,Ram Cargo,20806.0
+Dodge,Ram Pickup 1500,30622.822580645163
+Dodge,Ram Van,2200.5833333333335
+Dodge,Ram Wagon,14141.6
+Dodge,Ramcharger,2000.0
+Land Rover,Range Rover Evoque,50522.32142857143
+Land Rover,Range Rover Sport,80022.70833333333
+Land Rover,Range Rover,118229.57142857143
+Ford,Ranger,21340.135135135137
+Aston Martin,Rapide S,202748.33333333334
+Aston Martin,Rapide,210122.5
+Toyota,RAV4 EV,49800.0
+Toyota,RAV4 Hybrid,31445.0
+Toyota,RAV4,28789.166666666668
+Lexus,RC 200t,40075.0
+Lexus,RC 300,42690.0
+Lexus,RC 350,43965.833333333336
+Lexus,RC F,63123.333333333336
+Acura,RDX,39232.5
+Buick,Reatta,2000.0
+Buick,Regal,31872.058823529413
+Oldsmobile,Regency,2042.0
+Buick,Rendezvous,27127.5
+Suzuki,Reno,14647.0
+Lamborghini,Reventon,1500000.0
+Honda,Ridgeline,34248.69565217391
+Kia,Rio,16810.238095238095
+Buick,Riviera,2133.5
+Acura,RL,51340.0
+Acura,RLX,56491.666666666664
+Buick,Roadmaster,2044.6666666666667
+Nissan,Rogue Select,20825.0
+Nissan,Rogue,26121.0
+Kia,Rondo,18948.333333333332
+Volkswagen,Routan,35601.25
+Audi,RS 4,71603.33333333333
+Audi,RS 5,74066.66666666667
+Audi,RS 6,82700.0
+Audi,RS 7,108700.0
+Acura,RSX,21689.0
+Lexus,RX 300,35228.333333333336
+Lexus,RX 330,36590.0
+Lexus,RX 350,45752.27272727273
+Lexus,RX 400h,43340.0
+Lexus,RX 450h,52726.42857142857
+Mazda,RX-7,8169.666666666667
+Mazda,RX-8,29727.647058823528
+Chevrolet,S-10 Blazer,2000.0
+Chevrolet,S-10,19452.02857142857
+GMC,S-15 Jimmy,2000.0
+GMC,S-15,2000.0
+Mercedes-Benz,S-Class,157420.83333333334
+Honda,S2000,36019.28571428572
+Audi,S3,45091.666666666664
+Volvo,S40,30287.5
+Audi,S4,52150.0
+Audi,S5,58183.333333333336
+Volvo,S60 Cross Country,44200.0
+Volvo,S60,40721.42857142857
+Audi,S6,73340.0
+Volvo,S70,2317.9285714285716
+Audi,S7,82050.0
+Volvo,S80,43365.625
+Audi,S8,115150.0
+Volvo,S90,41773.8
+GMC,Safari Cargo,23791.666666666668
+GMC,Safari,25105.0
+Suzuki,Samurai,2000.0
+Hyundai,Santa Fe Sport,30525.0
+Hyundai,Santa Fe,35030.555555555555
+GMC,Savana Cargo,31863.214285714286
+GMC,Savana,34804.117647058825
+Lexus,SC 300,3633.3333333333335
+Lexus,SC 400,3959.0
+Lexus,SC 430,67188.33333333333
+Hyundai,Scoupe,2000.0
+Chrysler,Sebring,25975.75
+Kia,Sedona,32976.666666666664
+Nissan,Sentra,19146.842105263157
+Kia,Sephia,7066.25
+Toyota,Sequoia,55687.77777777778
+Cadillac,Seville,47452.8
+Dodge,Shadow,2000.0
+Ford,Shelby GT350,55711.666666666664
+Ford,Shelby GT500,55486.0
+Suzuki,Sidekick,2022.2173913043478
+Toyota,Sienna,37672.8431372549
+GMC,Sierra 1500 Classic,27964.79591836735
+GMC,Sierra 1500 Hybrid,45193.333333333336
+GMC,Sierra 1500,40312.11111111111
+GMC,Sierra 1500HD,33126.666666666664
+GMC,Sierra C3,38370.0
+GMC,Sierra Classic 1500,4567.0
+Mitsubishi,Sigma,2000.0
+Oldsmobile,Silhouette,32803.666666666664
+Rolls-Royce,Silver Seraph,224945.0
+Chevrolet,Silverado 1500 Classic,27336.73469387755
+Chevrolet,Silverado 1500 Hybrid,44802.5
+Chevrolet,Silverado 1500,38876.217948717946
+Cadillac,Sixty Special,2000.0
+Buick,Skylark,2000.0
+Mercedes-Benz,SL-Class,140150.0
+Mercedes-Benz,SLC-Class,54125.0
+Mercedes-Benz,SLK-Class,57769.444444444445
+Mercedes-Benz,SLR McLaren,490000.0
+Mercedes-Benz,SLS AMG GT Final Edition,224830.0
+Mercedes-Benz,SLS AMG GT,218000.0
+Mercedes-Benz,SLS AMG,189566.66666666666
+Acura,SLX,2658.75
+Pontiac,Solstice,27140.0
+Hyundai,Sonata Hybrid,28487.5
+Hyundai,Sonata,25707.63888888889
+Chevrolet,Sonic,18167.5
+GMC,Sonoma,18098.11111111111
+Kia,Sorento,33765.26315789474
+Kia,Soul EV,34250.0
+Kia,Soul,18046.666666666668
+Chevrolet,Spark EV,25842.5
+Chevrolet,Spark,14940.0
+Kia,Spectra,15726.739130434782
+Dodge,Spirit,2000.0
+Kia,Sportage,26725.555555555555
+Chevrolet,Sportvan,2000.0
+Maserati,Spyder,88165.83333333333
+Audi,SQ5,56850.0
+Dodge,SRT Viper,102515.0
+Cadillac,SRX,45903.80952380953
+Chevrolet,SS,45265.0
+Chevrolet,SSR,41138.333333333336
+Nissan,Stanza,2000.0
+Dodge,Stealth,2617.7
+Dodge,Stratus,21531.470588235294
+Cadillac,STS-V,78526.66666666667
+Cadillac,STS,53597.5
+Chevrolet,Suburban,57672.22222222222
+GMC,Suburban,2947.6666666666665
+Pontiac,Sunbird,2000.0
+Plymouth,Sundance,2000.0
+Pontiac,Sunfire,13371.0
+Ferrari,Superamerica,287625.0
+Bentley,Supersports Convertible ISR,291900.0
+Toyota,Supra,19738.0
+Subaru,SVX,2280.75
+Suzuki,Swift,6642.285714285715
+Suzuki,SX4,17608.696969696968
+GMC,Syclone,5667.0
+Toyota,T100,2861.2
+Toyota,Tacoma,30318.4375
+Chevrolet,Tahoe Hybrid,53647.5
+Chevrolet,Tahoe Limited/Z71,3439.0
+Chevrolet,Tahoe,54972.22222222222
+Ford,Taurus X,30837.5
+Ford,Taurus,33592.5
+Chrysler,TC,2000.0
+Scion,tC,21546.428571428572
+Ford,Tempo,2000.0
+Toyota,Tercel,2028.7142857142858
+GMC,Terrain,30442.58620689655
+Buick,Terraza,30005.909090909092
+Ford,Thunderbird,38502.5
+Hyundai,Tiburon,19910.0
+Volkswagen,Tiguan,31650.96153846154
+Nissan,Titan,37958.0
+Acura,TL,40876.739130434784
+Acura,TLX,38730.0
+Oldsmobile,Toronado,2000.0
+Pontiac,Torrent,26542.0
+Volkswagen,Touareg 2,47838.333333333336
+Volkswagen,Touareg,54166.666666666664
+Chrysler,Town and Country,35130.882352941175
+Lincoln,Town Car,49718.75
+Chevrolet,Tracker,19742.14285714286
+Chevrolet,TrailBlazer EXT,30166.666666666668
+Chevrolet,TrailBlazer,31843.0
+Pontiac,Trans Sport,2020.2857142857142
+Ford,Transit Connect,25110.760869565216
+Ford,Transit Wagon,37716.25
+Chevrolet,Traverse,36282.692307692305
+Chevrolet,Trax,23123.636363636364
+Subaru,Tribeca,33155.0
+Mazda,Tribute Hybrid,29462.5
+Mazda,Tribute,24722.74193548387
+Mazda,Truck,18810.666666666668
+Nissan,Truck,2390.1304347826085
+Acura,TSX Sport Wagon,33560.0
+Acura,TSX,33284.0625
+Audi,TT RS,57025.0
+Audi,TT,43916.666666666664
+Audi,TTS,51200.0
+Hyundai,Tucson,25970.833333333332
+Toyota,Tundra,37844.25
+GMC,Typhoon,6392.5
+Chevrolet,Uplander,24609.565217391304
+Aston Martin,V12 Vanquish,245880.0
+Aston Martin,V12 Vantage S,188095.0
+Aston Martin,V12 Vantage,187565.0
+Volvo,V40,26336.25
+Volvo,V50,31483.333333333332
+Volvo,V60 Cross Country,43125.0
+Volvo,V60,42403.333333333336
+Volvo,V70,34228.75
+Aston Martin,V8 Vantage,129535.0
+Audi,V8,2129.3333333333335
+Volvo,V90,2200.0
+Volkswagen,Vanagon,2000.0
+GMC,Vandura,2000.0
+Nissan,Van,2000.0
+Aston Martin,Vanquish,297083.75
+Mitsubishi,Vanwagon,2000.0
+Hyundai,Veloster,20928.333333333332
+Chevrolet,Venture,26836.590909090908
+Toyota,Venza,33031.851851851854
+Hyundai,Veracruz,32220.0
+Buick,Verano,24694.64285714286
+Suzuki,Verona,19221.222222222223
+Nissan,Versa Note,16834.375
+Nissan,Versa,14660.625
+Bugatti,Veyron 16.4,1757223.6666666667
+Pontiac,Vibe,18388.333333333332
+Acura,Vigor,2000.0
+Dodge,Viper,99709.28571428571
+Aston Martin,Virage,215795.0
+Suzuki,Vitara,17474.0
+Chrysler,Voyager,20951.428571428572
+Plymouth,Voyager,2075.125
+Ford,Windstar Cargo,20626.666666666668
+Ford,Windstar,28443.61111111111
+Rolls-Royce,Wraith,294425.0
+Subaru,WRX,32863.0
+Suzuki,X-90,2000.0
+BMW,X1,34383.333333333336
+BMW,X3,42237.5
+BMW,X4,49871.42857142857
+BMW,X5 M,98766.66666666667
+BMW,X5,60308.333333333336
+BMW,X6 M,102166.66666666667
+BMW,X6,66044.44444444444
+Scion,xA,12996.666666666666
+Scion,xB,18444.5
+Volvo,XC60,43620.37037037037
+Volvo,XC70,40877.77777777778
+Volvo,XC90,50794.117647058825
+Volvo,XC,36500.0
+Scion,xD,16683.0
+Hyundai,XG300,24249.0
+Hyundai,XG350,25099.0
+Suzuki,XL-7,23688.655172413793
+Suzuki,XL7,27013.76923076923
+Cadillac,XLR-V,100373.75
+Cadillac,XLR,82502.85714285714
+Cadillac,XT5,50010.833333333336
+Nissan,Xterra,26980.47619047619
+Cadillac,XTS,58115.555555555555
+Subaru,XT,2000.0
+Subaru,XV Crosstrek,24395.0
+Toyota,Yaris iA,16500.0
+Toyota,Yaris,16463.809523809523
+GMC,Yukon Denali,3949.0
+GMC,Yukon Hybrid,57979.583333333336
+GMC,Yukon XL,60970.555555555555
+GMC,Yukon,58270.555555555555
+BMW,Z3,25358.666666666668
+BMW,Z4 M,51250.0
+BMW,Z4,57438.88888888889
+BMW,Z8,129833.33333333333
+Acura,ZDX,51062.857142857145
+Lincoln,Zephyr,28995.0
