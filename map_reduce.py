@@ -24,15 +24,11 @@ class CarModelInfoBase:
 
 @dataclass
 class CarModelInfo(CarModelInfoBase):
-    make: str
-    model: str
     price: float
 
 
 @dataclass
 class CarModelInfoAggretated(CarModelInfoBase):
-    make: str
-    model: str
     price_total: float = 0.0
     count: int = 0
 
