@@ -24,11 +24,15 @@ class CarModelInfoBase:
 
 @dataclass
 class CarModelInfo(CarModelInfoBase):
+    make: str
+    model: str
     price: float
 
 
 @dataclass
 class CarModelInfoAggretated(CarModelInfoBase):
+    make: str
+    model: str
     price_total: float = 0.0
     count: int = 0
 
@@ -109,7 +113,6 @@ def main():
     # write result
     write_csv(
         file_path=_OUTPUT_DATA_FILE,
-        header=("make", "model", "avg_price"),
         data=result,
     )
 
