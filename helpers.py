@@ -16,8 +16,9 @@ def read_file(file_path: str) -> list[str]:
 
 def write_csv(file_path: str, data: list[tuple]):
     with open(file_path, "w") as f:
-        for i in data:
-            f.write(f"{i[0]},{i[1]},{i[2]:.2f}\n")
+        writer = csv.writer(f, delimiter=",")
+        for row in data:
+            writer.writerow(row)
 
 
 def parse_csv_line(line: str) -> list[str]:
@@ -27,3 +28,7 @@ def parse_csv_line(line: str) -> list[str]:
 
 def split_list(lst: list, n: int) -> list[list]:
     return [lst[i * n : (i + 1) * n] for i in range((len(lst) + n - 1) // n)]
+
+
+def round_number(number: float) -> float:
+    return float(f"{number:.2f}")
