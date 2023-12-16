@@ -4,7 +4,14 @@ from collections import defaultdict
 from dataclasses import dataclass
 from multiprocessing import Pool
 
-from helpers import read_file, write_csv, parse_csv_line, split_list, get_cpu_count
+from helpers import (
+    read_file,
+    write_csv,
+    parse_csv_line,
+    split_list,
+    get_cpu_count,
+    round_number,
+)
 
 
 _INPUT_DATA_FILE = r".\input_data.csv"
@@ -106,7 +113,7 @@ def main():
             (
                 car_model_agg.make,
                 car_model_agg.model,
-                car_model_agg.price_total / car_model_agg.count,
+                round_number(car_model_agg.price_total / car_model_agg.count),
             )
         )
 
