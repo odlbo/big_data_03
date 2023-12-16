@@ -14,12 +14,10 @@ def read_file(file_path: str) -> list[str]:
     return lines
 
 
-def write_csv(file_path: str, header: tuple, data: list[tuple]):
+def write_csv(file_path: str, data: list[tuple]):
     with open(file_path, "w") as f:
-        writer = csv.writer(f, delimiter=",")
-        writer.writerow(header)
-        for row in data:
-            writer.writerow(row)
+        for i in data:
+            f.write(f"{i[0]},{i[1]},{i[2]:.2f}\n")
 
 
 def parse_csv_line(line: str) -> list[str]:
